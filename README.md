@@ -1,6 +1,7 @@
 # Hoppity's Hunt
 
 A simple platformer game with a friendly rabbit named Hoppity!
+
 **Demo: https://voidless-psycho.itch.io/hoppitys-hunt**
 
 <img src="https://cdn.hackclub.com/01a0c28c-7466-7f4e-a7f9-4d7f8f8aba1d/image.png" alt="Main Game Screenshot" width=750/>
